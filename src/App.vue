@@ -14,8 +14,6 @@
   height: 100%;
   box-sizing: border-box;
   position: relative;
-  font-size: 1.6rem;
-  background-color: #2b2b2b;
-  color: white;
+  display: block;
 }
 </style>

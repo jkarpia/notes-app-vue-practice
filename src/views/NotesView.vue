@@ -1,9 +1,7 @@
 <script setup lang="ts">
-  
+import NotesList from '../components/NotesList.vue'
 </script>
 
 <template>
-  <div class="about">
-    <h1>Notes page</h1>
-  </div>
+  <NotesList />
 </template>
